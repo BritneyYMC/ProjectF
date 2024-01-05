@@ -6,7 +6,7 @@ public class DemoF {
 	public static void main(String[] args) {
 		System.out.println("Today is Thursday");
 		
-	}
+	
 		//Coming from Github
 		int examOne = 85;
 		int examTwo = 90;
@@ -18,4 +18,5 @@ public class DemoF {
 		} else if (examOne == examTwo){
 			System.out.println("Both exam score is same");
 		}
+}
 }
